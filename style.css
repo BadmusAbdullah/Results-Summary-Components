@@ -134,7 +134,7 @@ button:hover {
 .attribution {
 	margin-top: 2rem;
 }
-@media (max-width: 375px) {
+@media (max-width: 450px) {
 	body {
 		background-color: white;
 	}
